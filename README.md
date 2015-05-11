@@ -1,5 +1,5 @@
-.vim
-├── autoload
+.vim                        // 
+├── autoload                //
 ├── bundle
 │   ├── bootstrap-snippets
 │   │   └── snippets
