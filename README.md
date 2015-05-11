@@ -1,9 +1,9 @@
 ------ tree ------
 
-.vim \n
+.vim
+
   autoload
   bundle
-
     bootstrap-snippets
       snippets
     calendar
