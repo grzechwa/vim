@@ -1,11 +1,11 @@
 ------ tree ------
 ------------------
 .vim
-├── autoload
-├── bundle
-│   ├── bootstrap-snippets
-│   │   └── snippets
-│   ├── calendar
+  autoload
+  bundle
+    bootstrap-snippets
+      snippets
+    calendar
 │   │   ├── autoload
 │   │   ├── doc
 │   │   └── plugin
