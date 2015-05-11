@@ -1,7 +1,7 @@
 ------ tree ------
 ------------------
 
-.vim 
+.vim
 ├── autoload
 ├── bundle
 │   ├── bootstrap-snippets
