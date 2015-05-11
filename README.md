@@ -1,5 +1,6 @@
 ------ tree ------
-.vim
+
+.vim \n
   autoload
   bundle
 
